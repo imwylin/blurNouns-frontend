@@ -1,7 +1,7 @@
 {
   "name": "your-app-name",
   "version": "0.1.0",
-  "homepage": "https://your-github-username.github.io/your-app-name",
+  "homepage": "https://imwylin.github.io/blurNouns-frontend/",
   "private": true,
   "dependencies": {
     "react": "^18.0.0",
